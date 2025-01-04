@@ -1,8 +1,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DorayMini&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DorayMini&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DorayMini&theme=solarized_dark)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DorayMini/DorayMini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
